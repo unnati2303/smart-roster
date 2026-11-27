@@ -18,3 +18,14 @@ A full-stack workforce scheduling and conflict-detection platform built for mult
                       │
                       ▼
 [ Supabase PostgreSQL (9 Relational Tables) ]
+---
+
+## 2. Live App & Local Setup
+
+- **Live Application:** https://smart-roster-2xeipwst8-unnati-7088.vercel.app/
+- **GitHub Repository:** https://github.com/unnati2303/smart-roster
+
+1. Clone the repository:
+  ```bash
+   git clone https://github.com/unnati2303/smart-roster.git
+   cd smart-roster
